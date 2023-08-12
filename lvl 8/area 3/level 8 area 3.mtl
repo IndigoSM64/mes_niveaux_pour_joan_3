@@ -1,0 +1,212 @@
+# Blender 3.6.1 MTL File: 'modelisation area 3.blend'
+# www.blender.org
+
+newmtl MOSS_MOSS
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/briques.png
+
+newmtl REAL_MOSS001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/real moss.png
+
+newmtl bark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/bark.png
+
+newmtl barriere
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/barriere.png
+map_d /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/barriere.png
+
+newmtl chapiteau
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/chapiteau.PNG
+
+newmtl dirt
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/dirt.png
+
+newmtl f3dlite_material
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl grass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/level yoshi/texture/grass.png
+
+newmtl grass_2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/herbe.jpg
+
+newmtl grass_and_dirt
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/level yoshi/texture/separation.png
+
+newmtl orange_grass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/herbe orange.jpg
+
+newmtl plateform_mounait
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/real f p o m.png
+
+newmtl road
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/level yoshi/texture/real road.png
+
+newmtl rock
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/sand gray.png
+
+newmtl rock_variante
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/stairs.png
+
+newmtl rockowater
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/pebbles.png
+
+newmtl snow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/snow.png
+
+newmtl top_mounain
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/tom of the mouain.png
+
+newmtl wall
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/wall.png
+
+newmtl wall_of_mountain
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/for platedform of little mountain.png
+
+newmtl wall_tiles
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /media/indigo/Seagate Expansion Drive/créer rom hack super mario 64/hack/super joan 3/area 2 yoshi/area 1/texture/9BAE866111F9EB74BEE24DF7741B4A11.png
